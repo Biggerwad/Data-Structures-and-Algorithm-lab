@@ -1,0 +1,4 @@
+1. p = 0 
+2. p = 0
+3. To do that, I will ensure the base case is hit, and then the functions call themselves back up and return the value, 
+I will then make the print statement the last step after every successful recursive call. This will then print the reverse.
